@@ -1,4 +1,4 @@
-pocket smart demo link video https://drive.google.com/file/d/1MkYL-W4A5ainS_krfHyW0t00EYVrtKPM/view?usp=sharing
+pocket smart demo link video https://drive.google.com/file/d/1v-s1g-cEg-7Pp7trN-a0jn7VieKFg20f/view?usp=sharing
 # PocketSmart AI – Your Smart Budget & Recommendation Assistant
 
 PocketSmart AI is a production-style, AI-powered personal budget and shopping recommendation web application. It intelligently organizes a user's total budget, analyzes specific lifestyle requirements and preferences, and generates personalized, value-for-money recommendations across three specialized planners:
